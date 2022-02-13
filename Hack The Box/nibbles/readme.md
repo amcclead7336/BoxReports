@@ -92,7 +92,7 @@ As a matter of course, I always run sudo -l when I need to escalate my privilege
 `sudo /home/nibbler/personal/stuff/monitor.sh`
 
 If you look at the /home/nibbles directory, you'll notice a tar file named personal.tar. You can expand this file with:  
-`tar -xvf pernsonal.tar`
+`unzip pernsonal.zip`
 
 #### Reverse Shell
 Once expanded, you can navigate to /home/nibble/personal/stuff and modify monitor.sh.
