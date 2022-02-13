@@ -27,8 +27,8 @@ Form here I connected to the Hack the Box VPN.
 
 ### Scanning
 #### ping
-It may be training but I always ping the Target machine before doing anything, just to confirm my set up is correct.
-`ping 10.129.96.84`
+It may be training but I always ping the Target machine before doing anything, just to confirm my set up is correct.  
+`ping 10.129.96.84`  
 With a response I moved forward with my scanning
 
 #### nmap
