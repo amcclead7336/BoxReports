@@ -72,4 +72,4 @@ C:/Users/Administrator/Desktop/flags/﻿2\ for\ the\ price\ of\ 1.txt
 
 ***
 ## Review
-Honestly this box was way easy. I only had to google the msfconsole module I used and the rest was just following were the clues lead. Not sure why the box didn’t require the attack to elevate privileges at all. It probably only took me 15-30mins to break in and document everything.
+Honestly this box was easy. I only had to google the msfconsole modules I used and the rest was just following were the clues lead. Not sure why the box didn’t require the attack to elevate privileges at all. It probably only took me 15-30mins to break in and document everything.
